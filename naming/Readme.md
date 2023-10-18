@@ -1,0 +1,3 @@
+Ao nomear elementos no código, considero o conceito e função que representam. Para classes, escolho nomes que reflitam sua responsabilidade e domínio. Variáveis recebem nomes descritivos, indicando o que armazenam. Da mesma forma, ao nomear métodos, busco clareza na ação que realizam. Essa estratégia é consciente e essencial para a legibilidade e manutenção do código, facilitando a colaboração e a expansão do software.
+
+Essa estratégia surgiu de experiências pessoais. Inicialmente, usei nomes confusos, percebendo a necessidade de nomes descritivos. Isso me levou a adotar uma abordagem consciente, priorizando a clareza e compreensibilidade do código, mesmo reconhecendo a importância de convenções intuitivas para outras pessoas.
