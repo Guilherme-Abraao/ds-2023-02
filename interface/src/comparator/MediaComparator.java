@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package comparator;
 
 import java.util.Comparator;
@@ -12,3 +13,19 @@ public class MediaComparator implements Comparator<Estudante> {
     }
 }
 
+=======
+package comparator;
+
+import java.util.Comparator;
+
+public class MediaComparator implements Comparator<Estudante> {
+    @Override
+    public int compare(Estudante estudante1, Estudante estudante2) {
+        double media1 = estudante1.calcularMedia();
+        double media2 = estudante2.calcularMedia();
+
+        return Double.compare(media1, media2);
+    }
+}
+
+>>>>>>> 1e1c18c3eb413298ea5853c8171ec752d41ec282

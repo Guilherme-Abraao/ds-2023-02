@@ -10,4 +10,7 @@ Segundo o processo de definição de projeto da ISO/IEC 12207, o processo de sof
 # Você tinha conhecimento destas atividades e os entregáveis correspondentes?
 
 Possuo conhecimentos básicos, adquiridos com as disciplinas cursadas até o momento no curso.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e1c18c3eb413298ea5853c8171ec752d41ec282
