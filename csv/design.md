@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Atividade 1
 
 Um software que lê um arquivo no formato CSV e, para cada linha, calcula a soma das duas primeiras colunas e gera um arquivo CSV, contendo as mesmas linhas, mas o arquivo gerado contém uma coluna adicional que a soma obtida para cada linha. 
@@ -16,9 +16,7 @@ Um software que lê um arquivo no formato CSV e, para cada linha, calcula a soma
 1. O software solicita ao usuário o arquivo CSV de entrada.
 2. O software verifica se o arquivo de entrada existe.
 3. Se não existir, exibe uma mensagem de erro e encerre o programa.
-
 4. O software cria um arquivo CSV para saída dos dados.
-
 5. Para cada linha no arquivo de entrada:
    
    5.1. Leia a linha do arquivo de entrada.
@@ -32,8 +30,4 @@ Um software que lê um arquivo no formato CSV e, para cada linha, calcula a soma
    5.5. Adicione a soma como uma nova coluna na linha.
 
 7. Feche ambos os arquivos (entrada e saída).
-
 8. Exiba uma mensagem informando que a operação foi concluída com sucesso e que o arquivo de saída foi gerado.
-=======
-Responder isso: Um software que lê um arquivo no formato CSV e, para cada linha, calcula a soma das duas primeiras colunas e gera um arquivo CSV, contendo as mesmas linhas, mas o arquivo gerado contém uma coluna adicional que a soma obtida para cada linha. Criar o diretório csv no seu repositório e depositar nele o arquivo design.md contendo a descrição do software que atende esta demanda. Não é a implementação, mas o software a ser construído. Coloque sua proposta no diretório csv no seu repositório ds-2023-02.
->>>>>>> 1e1c18c3eb413298ea5853c8171ec752d41ec282
